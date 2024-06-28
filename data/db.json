@@ -1,13 +1,13 @@
 {
   "heros": [
     {
-      "heroimage": "/batman.jpeg",
+      "heroimage": "./batman.jpeg",
       "name": "Batman",
       "favDialogue": "I am vengeance.I am the night.I am the Batman!",
       "id": "1"
     },
     {
-      "heroimage": "/BlackPanther.png",
+      "heroimage": "./BlackPanther.png",
       "name": "Black Panther",
       "favDialogue": "Wakanda Forever!",
       "id": "2"
